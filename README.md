@@ -1,6 +1,7 @@
 # Olá, me chamo Juliana Gasparini Soares! 💫
 ## Seja muito bem vindo ao meu perfil GitHub 👋😄
 
+- 📂 Este é o meu portifólio [https://github.com/JulianaGSoares/MeuPortifolioNoGitHub](https://julianagsoares.github.io/MeuPortifolioNoGitHub/)
 - 🔭 Atualmente estou passando por uma transição de carreira e busco oportunidades de trabalho em áreas tecnológicas, como analista ou desenvolvedora de sistemas.
 - 🎓 Iniciei o Tecnólogo em Análise e Desenvolvimento de Sistemas, na FATEC Arthur de Azevedo de Mogi Mirim, em janeiro de 2023.
 - ✈️ Graças a minha dedicação aos estudos, através da FATEC, consegui uma bolsa para um intercâmbio acadêmico na Escola Superior de Tecnologia do IPCB, em Portugal, da Licenciatura em Informática e Multimédia, iniciado em setembro de 2024.
